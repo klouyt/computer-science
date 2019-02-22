@@ -1,1 +1,36 @@
+<FORM Name="Calc">
+<TABLE Border=4>
+<TR>
+<TD>
+<INPUT Type="text"   Name="Input" Size="16">
+<br>
+</TD>
+</TR>
+<TR>
+<TD>
+<INPUT Type="button" Name="one"   Value="  1  " OnClick="Calc.Input.value += '1'">
+<INPUT Type="button" Name="two"   Value="  2  " OnCLick="Calc.Input.value += '2'">
+<INPUT Type="button" Name="three" Value="  3  " OnClick="Calc.Input.value += '3'">
+<INPUT Type="button" Name="plus"  Value="  +  " OnClick="Calc.Input.value += ' + '">
+<br>
+<INPUT Type="button" Name="four"  Value="  4  " OnClick="Calc.Input.value += '4'">
+<INPUT Type="button" Name="five"  Value="  5  " OnCLick="Calc.Input.value += '5'">
+<INPUT Type="button" Name="six"   Value="  6  " OnClick="Calc.Input.value += '6'">
+<INPUT Type="button" Name="minus" Value="  -  " OnClick="Calc.Input.value += ' - '">
+<br>
+<INPUT Type="button" Name="seven" Value="  7  " OnClick="Calc.Input.value += '7'">
+<INPUT Type="button" Name="eight" Value="  8  " OnCLick="Calc.Input.value += '8'">
+<INPUT Type="button" Name="nine"  Value="  9  " OnClick="Calc.Input.value += '9'">
+<INPUT Type="button" Name="times" Value="  x  " OnClick="Calc.Input.value += ' * '">
+<br>
+<INPUT Type="button" Name="clear" Value="  c  " OnClick="Calc.Input.value = ''">
+<INPUT Type="button" Name="zero"  Value="  0  " OnClick="Calc.Input.value += '0'">
+<INPUT Type="button" Name="DoIt"  Value="  =  " OnClick="Calc.Input.value = eval(Calc.Input.value)">
+<INPUT Type="button" Name="div"   Value="  /  " OnClick="Calc.Input.value += ' / '">
+<br>
+</TD>
+</TR>
+</TABLE>
+</FORM>
+
 
