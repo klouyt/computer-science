@@ -1,13 +1,13 @@
-<FORM Name="Calc">
-<TABLE Border=4>
-<TR>
-<TD>
+<Form Name="Calc">
+<Table Border=4>
+<Tr>
+<Td>
 <INPUT Type="text"   Name="Input" Size="16">
 <br>
-</TD>
-</TR>
-<TR>
-<TD>
+</Td>
+</Tr>
+<Tr>
+<Tr>
 <INPUT Type="button" Name="one"   Value="  1  " OnClick="Calc.Input.value += '1'">
 <INPUT Type="button" Name="two"   Value="  2  " OnCLick="Calc.Input.value += '2'">
 <INPUT Type="button" Name="three" Value="  3  " OnClick="Calc.Input.value += '3'">
@@ -28,9 +28,9 @@
 <INPUT Type="button" Name="DoIt"  Value="  =  " OnClick="Calc.Input.value = eval(Calc.Input.value)">
 <INPUT Type="button" Name="div"   Value="  /  " OnClick="Calc.Input.value += ' / '">
 <br>
-</TD>
-</TR>
-</TABLE>
-</FORM>
+</Td>
+</Tr>
+</TableE>
+</Form>
 
 
