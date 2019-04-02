@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+
+function b1() {
+  if (document.getElementById('b1').style.backgroundColor=="white"){
+    document.getElementById('b1').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b1').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b2').style.backgroundColor=="white"){
+    document.getElementById('b2').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b2').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b5').style.backgroundColor=="white"){
+    document.getElementById('b5').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b5').style.backgroundColor = "white";
+  }
+}
+function b2() {
+  if (document.getElementById('b2').style.backgroundColor=="white"){
+    document.getElementById('b2').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b2').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b1').style.backgroundColor=="white"){
+    document.getElementById('b1').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b1').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b3').style.backgroundColor=="white"){
+    document.getElementById('b3').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b3').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b6').style.backgroundColor=="white"){
+    document.getElementById('b6').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b6').style.backgroundColor = "white";
+  }
+}
+
+function b3() {
+if (document.getElementById('b3').style.backgroundColor=="white"){
+    document.getElementById('b3').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b3').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b4').style.backgroundColor=="white"){
+    document.getElementById('b4').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b4').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b2').style.backgroundColor=="white"){
+    document.getElementById('b2').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b2').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b7').style.backgroundColor=="white"){
+    document.getElementById('b7').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b7').style.backgroundColor = "white";
+  }
+}
+
+function b4() {
+if (document.getElementById('b4').style.backgroundColor=="white"){
+    document.getElementById('b4').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b4').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b8').style.backgroundColor=="white"){
+    document.getElementById('b8').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b8').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b3').style.backgroundColor=="white"){
+    document.getElementById('b3').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b3').style.backgroundColor = "white"
+ 
+  }
+}
+ 
+function b5() {
+ 
+ if (document.getElementById('b5').style.backgroundColor=="white"){
+    document.getElementById('b5').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b5').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b1').style.backgroundColor=="white"){
+    document.getElementById('b1').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b1').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b9').style.backgroundColor=="white"){
+    document.getElementById('b9').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b9').style.backgroundColor = "white";
+  }
+ 
+  if (document.getElementById('b6').style.backgroundColor=="white"){
+    document.getElementById('b6').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b6').style.backgroundColor = "white";
+  }
+}
+function b6() {
+if (document.getElementById('b2').style.backgroundColor=="white"){
+    document.getElementById('b2').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b2').style.backgroundColor = "white";
+  }
+ if (document.getElementById('b6').style.backgroundColor=="white"){
+    document.getElementById('b6').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b6').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b5').style.backgroundColor=="white"){
+    document.getElementById('b5').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b5').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b7').style.backgroundColor=="white"){
+    document.getElementById('b7').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b7').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b10').style.backgroundColor=="white"){
+    document.getElementById('b10').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b10').style.backgroundColor = "white";
+  }
+}
+function b7() {
+ if (document.getElementById('b7').style.backgroundColor=="white"){
+    document.getElementById('b7').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b7').style.backgroundColor = "white";
+  }
+ if (document.getElementById('b6').style.backgroundColor=="white"){
+    document.getElementById('b6').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b6').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b3').style.backgroundColor=="white"){
+    document.getElementById('b3').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b3').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b8').style.backgroundColor=="white"){
+    document.getElementById('b8').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b8').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b11').style.backgroundColor=="white"){
+    document.getElementById('b11').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b11').style.backgroundColor = "white";
+  }
+}
+function b8() {
+if (document.getElementById('b8').style.backgroundColor=="white"){
+    document.getElementById('b8').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b8').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b4').style.backgroundColor=="white"){
+    document.getElementById('b4').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b4').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b12').style.backgroundColor=="white"){
+    document.getElementById('b12').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b12').style.backgroundColor = "white";
+  }
+ 
+  if (document.getElementById('b7').style.backgroundColor=="white"){
+    document.getElementById('b7').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b7').style.backgroundColor = "white";
+  }
+}
+function b9() {
+ if (document.getElementById('b13').style.backgroundColor=="white"){
+    document.getElementById('b13').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b13').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b10').style.backgroundColor=="white"){
+    document.getElementById('b10').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b10').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b9').style.backgroundColor=="white"){
+    document.getElementById('b9').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b9').style.backgroundColor = "white";
+  }
+ 
+  if (document.getElementById('b5').style.backgroundColor=="white"){
+    document.getElementById('b5').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b5').style.backgroundColor = "white";
+  }
+}
+function b10() {
+  if (document.getElementById('b10').style.backgroundColor=="white"){
+    document.getElementById('b10').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b10').style.backgroundColor = "white";
+  }
+ if (document.getElementById('b9').style.backgroundColor=="white"){
+    document.getElementById('b9').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b9').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b11').style.backgroundColor=="white"){
+    document.getElementById('b11').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b11').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b14').style.backgroundColor=="white"){
+    document.getElementById('b14').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b14').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b6').style.backgroundColor=="white"){
+    document.getElementById('b6').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b6').style.backgroundColor = "white";
+  }
+}
+function b11() {
+ if (document.getElementById('b11').style.backgroundColor=="white"){
+    document.getElementById('b11').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b11').style.backgroundColor = "white";
+  }
+ if (document.getElementById('b10').style.backgroundColor=="white"){
+    document.getElementById('b10').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b10').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b12').style.backgroundColor=="white"){
+    document.getElementById('b12').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b12').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b15').style.backgroundColor=="white"){
+    document.getElementById('b15').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b15').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b7').style.backgroundColor=="white"){
+    document.getElementById('b7').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b7').style.backgroundColor = "white";
+  }
+}
+function b12() {
+ if (document.getElementById('b12').style.backgroundColor=="white"){
+    document.getElementById('b12').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b12').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b11').style.backgroundColor=="white"){
+    document.getElementById('b11').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b11').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b8').style.backgroundColor=="white"){
+    document.getElementById('b8').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b8').style.backgroundColor = "white";
+  }
+ 
+  if (document.getElementById('b16').style.backgroundColor=="white"){
+    document.getElementById('b16').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b16').style.backgroundColor = "white";
+  }
+}
+function b13() {
+ if (document.getElementById('b13').style.backgroundColor=="white"){
+    document.getElementById('b13').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b13').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b9').style.backgroundColor=="white"){
+    document.getElementById('b9').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b9').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b14').style.backgroundColor=="white"){
+    document.getElementById('b14').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b14').style.backgroundColor = "white";
+  }
+}
+function b14() {
+ if (document.getElementById('b14').style.backgroundColor=="white"){
+    document.getElementById('b14').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b14').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b13').style.backgroundColor=="white"){
+    document.getElementById('b13').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b13').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b15').style.backgroundColor=="white"){
+    document.getElementById('b15').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b15').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b10').style.backgroundColor=="white"){
+    document.getElementById('b10').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b10').style.backgroundColor = "white";
+  }
+}
+function b15() {
+if (document.getElementById('b15').style.backgroundColor=="white"){
+    document.getElementById('b15').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b15').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b16').style.backgroundColor=="white"){
+    document.getElementById('b16').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b16').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b14').style.backgroundColor=="white"){
+    document.getElementById('b14').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b14').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b11').style.backgroundColor=="white"){
+    document.getElementById('b11').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b11').style.backgroundColor = "white";
+  }
+}
+function b16() {
+ if (document.getElementById('b16').style.backgroundColor=="white"){
+    document.getElementById('b16').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b16').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b15').style.backgroundColor=="white"){
+    document.getElementById('b15').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b15').style.backgroundColor = "white";
+  }
+  if (document.getElementById('b12').style.backgroundColor=="white"){
+    document.getElementById('b12').style.backgroundColor = "black";
+  } 
+  else {
+    document.getElementById('b12').style.backgroundColor = "white";
+  }
+}
+</script>
+</head>
+<body>
+<style type="text/css">
+</style>
+
+
+
+<html>
+<body>
+<style type="text/css">
+ body {
+      width: 200px;
+      height: 200px;
+      border: solid 1px #000;
+    }
+    div { 
+      background-color: white;
+      box-sizing: border-box;
+      float: left;
+      width: 50px; 
+      height: 50px; 
+      margin: 0;
+      padding: 0;  
+    }
+div { border: 1px solid black; }
+</style>
+
+<div onclick="b1()" id='b1' style='background-color:white'></div>
+  <div onclick="b2()" id='b2' style='background-color:white'></div>
+  <div onclick="b3()" id='b3' style='background-color:white'></div>
+  <div onclick="b4()" id='b4' style='background-color:white'></div>
+  <div onclick="b5()" id='b5' style='background-color:white'></div>
+  <div onclick="b6()" id='b6' style='background-color:white'></div>
+  <div onclick="b7()" id='b7' style='background-color:white'></div>
+  <div onclick="b8()" id='b8' style='background-color:white'></div>
+  <div onclick="b9()" id='b9' style='background-color:white'></div>
+  <div onclick="b10()" id='b10' style='background-color:white'></div>
+  <div onclick="b11()" id='b11' style='background-color:white'></div>
+  <div onclick="b12()" id='b12' style='background-color:white'></div>
+  <div onclick="b13()" id='b13' style='background-color:white'></div>
+  <div onclick="b14()" id='b14' style='background-color:white'></div>
+  <div onclick="b15()" id='b15' style='background-color:white'></div>
+  <div onclick="b16()" id='b16' style='background-color:white'></div>
+
+
+
+</style>
+</head>
+</body>
+</html>
